@@ -1,7 +1,7 @@
 # OBS-Recording-Organizer
 ## Description
 ### 
-This is an improved and simplified version of [pjw29's OBS Rec Rename](https://github.com/pjw29/obs-rec-rename) Python script, which, similarly to NVidia ShadowPlay, allows OBS to rename and organize into folders video recordings based on the window title on focus whenever a replay buffer or a recording is saved, unlike from the previous version where it periodically checked for new clips.
+This is an improved and simplified version of [pjw29's OBS Rec Rename](https://github.com/pjw29/obs-rec-rename) Python script, that, similarly to NVidia ShadowPlay, allows OBS to rename and organize into folders video recordings based on the window title on focus whenever a replay buffer or a recording is saved, unlike from the previous version where it periodically checked for new clips.
 ## How to install
 ### Requirements
 #### 
